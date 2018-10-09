@@ -1,2 +1,14 @@
-# CometD-Bear-Watch
-https://trailhead.salesforce.com/projects/workshop-platform-events
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
